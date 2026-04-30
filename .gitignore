@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+Thumbs.db
+~$*.xlsx
+output_thermal_shift*/

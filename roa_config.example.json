@@ -1,0 +1,7 @@
+{
+  "defaults": { "roas": null },
+  "plates": {
+    "16mutants": { "roas": null, "samples": {} },
+    "stability_test": { "roas": null, "samples": {} }
+  }
+}
